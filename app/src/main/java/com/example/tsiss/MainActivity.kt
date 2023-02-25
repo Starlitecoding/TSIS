@@ -39,6 +39,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     TSISSTheme {
-        Greeting("Androidddd")
+        Greeting("Androidddddd")
     }
 }
